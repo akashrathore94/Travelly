@@ -59,6 +59,9 @@ button:hover {
 
 /*******NAV section with HERO**********/
 .main-head {
+    position: sticky;
+    top: 0;
+    z-index: 999;
     background-color: #131c27;
     color: white;
 }
